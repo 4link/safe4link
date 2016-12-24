@@ -1,0 +1,2 @@
+# safe4link
+safelink
